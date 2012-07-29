@@ -1,4 +1,4 @@
-## Sample Application Using a Node and Handlebars Templates
+## Sample Application Using Node and Handlebars.js
 
 Requirements
 
@@ -23,5 +23,5 @@ $ node app.js
 
 ## Testing Server ##
 
-Visit http://localhost:1337/
+After server has been started, visit [http://localhost:1337/]http://localhost:1337/
 
