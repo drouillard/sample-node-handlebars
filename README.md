@@ -23,5 +23,5 @@ $ node app.js
 
 ## Testing Server ##
 
-After server has been started, visit [http://localhost:1337/]http://localhost:1337/
+After server has been started, visit [http://localhost:1337/](http://localhost:1337/)
 
